@@ -1,0 +1,3 @@
+# Evil of Kuro Games
+
+记录 wuwa、库狗及 kl 作的恶。内容不断完善中……
