@@ -11,6 +11,6 @@ If you have any related content need submit, please send to my Email. My Email a
 
 如果有要投稿的相关内容，请发送到我的电子邮箱。我的电子邮箱地址：tzhong072@gmail.com
 
-Related content must truly, not allow fakeing.
+Related content must truly, not allow faking.
 
 投稿内容必须属实，不得作假。
