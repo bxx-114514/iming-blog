@@ -1,4 +1,4 @@
-# 本项目介绍 Introduction of this project
+# 项目介绍 Project Introduction
 
 Recording evil of Wuthering Waves (included it fans) and Kuro Games.
 
