@@ -70,7 +70,8 @@ bilibili [@奥兹不想睡大街](https://space.bilibili.com/3546385718708728)
 
 ![](https://raw.githubusercontent.com/KugouGames/iming-blog/refs/heads/main/evil-of-kurogames/images/1018208927692619778/20.jpg)
 
-[@小艾咪绽放光芒](https://space.bilibili.com/617312457) - 分享图片 ![](https://raw.githubusercontent.com/KugouGames/iming-blog/refs/heads/main/evil-of-kurogames/images/1018208927692619778/21.jpg)
+# [@小艾咪绽放光芒](https://space.bilibili.com/617312457) - 分享图片
+![](https://raw.githubusercontent.com/KugouGames/iming-blog/refs/heads/main/evil-of-kurogames/images/1018208927692619778/21.jpg)
 
 # 外部链接
 
