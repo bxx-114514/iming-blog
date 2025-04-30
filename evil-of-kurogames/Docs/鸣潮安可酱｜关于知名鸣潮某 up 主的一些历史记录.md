@@ -1,6 +1,6 @@
 # 鸣潮安可酱｜关于知名鸣潮某 up 主的一些历史记录
 
-bilibili @奥兹不想睡大街
+bilibili [@奥兹不想睡大街](https://space.bilibili.com/3546385718708728)
 
 首先让我们回到 21 年那个群魔乱舞的时期，在那个时期出现了很多很诡异的节奏，但是最难绷的就是得了节奏金猴奖的「文化外送」，这是一个什么事件呢，看下图：
 
@@ -32,7 +32,7 @@ bilibili @奥兹不想睡大街
 
 ![](https://raw.githubusercontent.com/KugouGames/iming-blog/refs/heads/main/evil-of-kurogames/images/1018208927692619778/6.jpg)
 
-到了鸣潮开服，开始学习米社区资讯的 up 主【依和p】做起来库洛本来就根本没有什么活的库洛社区资讯。
+到了鸣潮开服，开始学习米社区资讯的 up 主【[依和p](https://www.xiaohongshu.com/user/profile/620d3b24000000001000775a)】做起来库洛本来就根本没有什么活的库洛社区资讯。
 
 然而有一个很幽默的事情，在鸣潮 1.1 版本左右提前泄露了鸣潮下一个版本的 bgm 的内鬼视频，而且还被参与库洛制作的人员转发了，并且半夜热度都诡异的 1,000+ 的同步播放，让人不得不对于其现在的真正的成分遐想：
 
@@ -70,7 +70,9 @@ bilibili @奥兹不想睡大街
 
 ![](https://raw.githubusercontent.com/KugouGames/iming-blog/refs/heads/main/evil-of-kurogames/images/1018208927692619778/20.jpg)
 
-@小艾咪绽放光芒 - 分享图片 ![](https://raw.githubusercontent.com/KugouGames/iming-blog/refs/heads/main/evil-of-kurogames/images/1018208927692619778/21.jpg)
+[@小艾咪绽放光芒](https://space.bilibili.com/617312457) - 分享图片 ![](https://raw.githubusercontent.com/KugouGames/iming-blog/refs/heads/main/evil-of-kurogames/images/1018208927692619778/21.jpg)
+
+# 外部链接
 
 来源 https://www.bilibili.com/opus/1018208927692619778
 
