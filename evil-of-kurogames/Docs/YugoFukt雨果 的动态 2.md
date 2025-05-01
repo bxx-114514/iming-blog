@@ -1,6 +1,6 @@
 # YugoFukt雨果 的动态 2
 
-bilibili [@YugoFukt雨果](https://space.bilibili.com/4048244)
+## bilibili [@YugoFukt雨果](https://space.bilibili.com/4048244)
 
 （一）4 月 8 日下午联系专业律师，了解民事和刑事报案流程，初步完成证据收集固定。
 
