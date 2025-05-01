@@ -8,7 +8,7 @@ The content is constantly updating...
 
 内容不断更新中……
 
-# 投稿方式 Relating Details
+# 投稿方式 How to relate
 
 tzhong072@gmail.com
 
