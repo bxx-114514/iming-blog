@@ -10,6 +10,6 @@ The content is constantly updating...
 
 # 投稿方式 How to relate
 
-* tzhong072@gmail.com (如果您没有 GitHub 账号 If you don’t have a GitHub account)
+* tzhong072@gmail.com (如果您没有 GitHub 账号 | If you don’t have a GitHub account)
 
-* [Issues](https://github.com/bxx-114514/iming-blog/issues) (推荐，如果您有 GitHub 账号 Recommend, if you have a GitHub account)
+* [Issues](https://github.com/bxx-114514/iming-blog/issues) (推荐，如果您有 GitHub 账号 | Recommend, if you have a GitHub account)
