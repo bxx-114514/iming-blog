@@ -27,5 +27,5 @@
   - 「『×××』这种事，也只有×××才能××了。」
 
 # 参考资料
-* 鸣潮公式_百度百科 https://baike.baidu.com/item/%E9%B8%A3%E6%BD%AE%E5%85%AC%E5%BC%8F/65221869
-* 【图片】高能产出，鸣式5.0出现【反鸣潮吧】_百度贴吧 https://tieba.baidu.com/p/9683352979
+* 鸣潮公式_百度百科 https://baike.baidu.com/item/%E9%B8%A3%E6%BD%AE%E5%85%AC%E5%BC%8F/65221869 　[快照备份](https://web.archive.org/web/20250502062245/https://baike.baidu.com/item/%E9%B8%A3%E6%BD%AE%E5%85%AC%E5%BC%8F/65221869)
+* 【图片】高能产出，鸣式5.0出现【反鸣潮吧】_百度贴吧 https://tieba.baidu.com/p/9683352979 　[快照备份](https://web.archive.org/web/20250502062150/https://tieba.baidu.com/p/9683352979)
