@@ -1,3 +1,6 @@
+![](https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250601/1.jpg)
+![](https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250601/2.jpg)
+
 # 项目介绍 Project Introduction
 
 记录 wuwa、库狗及 kl 作的恶。\
