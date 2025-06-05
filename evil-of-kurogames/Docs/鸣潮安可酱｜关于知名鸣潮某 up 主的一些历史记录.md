@@ -1,6 +1,5 @@
 # 鸣潮安可酱｜关于知名鸣潮某 up 主的一些历史记录
-
-## bilibili [@奥兹不想睡大街](https://space.bilibili.com/3546385718708728)
+> bilibili [@奥兹不想睡大街](https://space.bilibili.com/3546385718708728)
 
 首先让我们回到 21 年那个群魔乱舞的时期，在那个时期出现了很多很诡异的节奏，**但是最难绷的就是得了节奏金猴奖的「文化外送」**，这是一个什么事件呢，看下图：
 
@@ -74,7 +73,5 @@
 ![](https://raw.githubusercontent.com/KugouGames/iming-blog/refs/heads/main/evil-of-kurogames/images/1018208927692619778/21.jpg)
 
 # 外部链接
-
-来源 https://www.bilibili.com/opus/1018208927692619778
-
-快照备份 https://web.archive.org/web/20250105220825/https://www.bilibili.com/opus/1018208927692619778
+- 来源 https://www.bilibili.com/opus/1018208927692619778
+- 快照备份 https://web.archive.org/web/20250105220825/https://www.bilibili.com/opus/1018208927692619778
