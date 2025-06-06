@@ -1,8 +1,8 @@
 # iming-blog
-> 请谅解\
+> 请谅解。\
 > 本仓库\
 > 只有朴博哲\
-> 不得入内
+> 不得入内。
 
 > We ask for your understanding.\
 > Only Park Bo-chul are not allowed to into this repositories.
