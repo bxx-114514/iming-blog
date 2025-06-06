@@ -34,3 +34,4 @@
   - [论黑白颠倒](evil-of-kurogames/Docs/论黑白颠倒.md)
   - [鸣潮安可酱｜关于知名鸣潮某 up 主的一些历史记录](evil-of-kurogames/Docs/鸣潮安可酱｜关于知名鸣潮某%20up%20主的一些历史记录.md)
   - [猴吧是想吃红豆了？](evil-of-kurogames/Docs/猴吧是想吃红豆了？.md)
+  - [Kurean 又来前瞻下撒野了](evil-of-kurogames/Docs/Kurean%20又来前瞻下撒野了.md)
