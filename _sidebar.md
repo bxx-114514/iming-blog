@@ -33,3 +33,4 @@
   - [虚假的国际化：米哈游](evil-of-kurogames/Docs/虚假的国际化：米哈游.md)
   - [论黑白颠倒](evil-of-kurogames/Docs/论黑白颠倒.md)
   - [鸣潮安可酱｜关于知名鸣潮某 up 主的一些历史记录](evil-of-kurogames/Docs/鸣潮安可酱｜关于知名鸣潮某%20up%20主的一些历史记录.md)
+  - [猴吧是想吃红豆了？](evil-of-kurogames/Docs/猴吧是想吃红豆了？.md)
