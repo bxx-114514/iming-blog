@@ -17,3 +17,6 @@
 - このリポジトリは，
 - パク・ボチョルだけ
 - 進入禁止。
+
+[GitHub](https://github.com/bxx-114514/iming-blog)
+[开始吧 Get Started](README.md)
