@@ -5,6 +5,7 @@
 - **【重量级】**
   - [词条「逐火之旅」被鸣系 UP 污染事件](evil-of-kurogames/Docs/词条「逐火之旅」被污染事件.md)
   - [「逐火之旅」是什么？](evil-of-kurogames/Docs/「逐火之旅」是什么？.md)
+  - [事态可能比预想的更严峻，警惕针对米哈游相关词条的系统性污染（炸 tag）行为](evil-of-kurogames/Docs/事态可能比预想的更严峻，警惕针对米哈游相关词条的系统性污染（炸%20tag）行为.md)
 - **【流光忆庭 - 未分类】**
   - [20250513——串子又开始了](evil-of-kurogames/Docs/20250513%20串子又开始了.md)
   - [YugoFukt雨果 的动态 2](evil-of-kurogames/Docs/YugoFukt雨果%20的动态%202.md)
