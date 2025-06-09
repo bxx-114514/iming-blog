@@ -40,3 +40,4 @@
   - [猴吧是想吃红豆了？](evil-of-kurogames/Docs/猴吧是想吃红豆了？.md)
   - [Kurean 又来前瞻下撒野了](evil-of-kurogames/Docs/Kurean%20又来前瞻下撒野了.md)
   - [库叠皮肤越来越贵了](evil-of-kurogames/Docs/库叠皮肤越来越贵了.md)
+  - [疑似串子或镍币人 Suspected flamebaiter](evil-of-kurogames/Docs/疑似串子或镍币人%20Suspected%20flamebaiter.md)
