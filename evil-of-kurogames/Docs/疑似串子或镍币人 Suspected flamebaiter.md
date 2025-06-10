@@ -1,5 +1,4 @@
 # 疑似串子或镍币人 Suspected flamebaiter
-> 百度贴吧 Baidu Tieba [@嘘，可以和解吗](https://tieba.baidu.com/home/main?id=tb.1.2c32c91b.XDM4C2rCybCkNKAC9owMNQ&fr=home)
 
 - 看起来评论区已变得混乱。（p1~3）
 - Looks like the comment section turned into a catfight zone. (p1~3)
