@@ -2,6 +2,7 @@
 - [送给我最爱的鸣潮](evil-of-kurogames/Docs/送给我最爱的鸣潮.md)
 - [鸣式的 IP 价值比小明本身还高](鸣式的%20IP%20价值比小明本身还高.md)
 - [关于排版规范](关于排版规范.md)
+- **[荣誉勋章](evil-of-kurogames/Docs/荣誉勋章.md)**
 - **【重量级】**
   - [词条「逐火之旅」被鸣系 UP 污染事件](evil-of-kurogames/Docs/词条「逐火之旅」被污染事件.md)
   - [「逐火之旅」是什么？](evil-of-kurogames/Docs/「逐火之旅」是什么？.md)
