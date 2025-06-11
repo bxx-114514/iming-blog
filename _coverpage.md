@@ -19,4 +19,4 @@
 - 進入禁止。
 
 [GitHub](https://github.com/bxx-114514/iming-blog)
-[开始吧 Get Started](README.md)
+[开始吧 Getting Started](README.md)
