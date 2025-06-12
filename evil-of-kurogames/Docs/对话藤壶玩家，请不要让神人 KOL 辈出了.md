@@ -1,7 +1,7 @@
 # 对话藤壶玩家，请不要让神人 KOL 辈出了
 > bilibili [@折叠土豆法务部](https://space.bilibili.com/3546385718708728)
 
-最近藤壶又推出了一个新 KOL，是外网的一个叫做 [NicholasLight](https://x.com/NicholasLightTV) 的 X (Twitter) 博主。
+最近藤壶又推出了一个新 KOL，是外网的一个叫做 [Nicholas Light](https://x.com/NicholasLightTV) 的 X (Twitter) 博主。
 ![](https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250612/1.jpg)
 
 其在主页分享游戏，体育等多方面的内容，可以看到之前也是原神、星铁的玩家，但是一直在游戏区没有很高的知名度。\
