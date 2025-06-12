@@ -4,9 +4,11 @@
 - [关于排版规范](关于排版规范.md)
 - **[荣誉勋章](evil-of-kurogames/Docs/荣誉勋章.md)**
 - **【重量级】**
+  - [鸣潮安可酱｜关于知名鸣潮某 up 主的一些历史记录](evil-of-kurogames/Docs/鸣潮安可酱｜关于知名鸣潮某%20up%20主的一些历史记录.md)
   - [词条「逐火之旅」被鸣系 UP 污染事件](evil-of-kurogames/Docs/词条「逐火之旅」被污染事件.md)
   - [「逐火之旅」是什么？](evil-of-kurogames/Docs/「逐火之旅」是什么？.md)
   - [事态可能比预想的更严峻，警惕针对米哈游相关词条的系统性污染（炸 tag）行为](evil-of-kurogames/Docs/事态可能比预想的更严峻，警惕针对米哈游相关词条的系统性污染（炸%20tag）行为.md)
+  - [对话藤壶玩家，请不要让神人 KOL 辈出了](evil-of-kurogames/Docs/对话藤壶玩家，请不要让神人%20KOL%20辈出了.md)
 - **【偷窃、盗用、倒打一耙】**
   - [尘白深陷偷皮肤风波？自导自演还是确有其事？](evil-of-kurogames/Docs/尘白深陷偷皮肤风波？自导自演还是确有其事？.md)
 - **【流光忆庭 - 未分类】**
@@ -39,7 +41,7 @@
   - [米哈游玩家被造谣刑事犯罪喽](evil-of-kurogames/Docs/米哈游玩家被造谣刑事犯罪喽.md)
   - [虚假的国际化：米哈游](evil-of-kurogames/Docs/虚假的国际化：米哈游.md)
   - [论黑白颠倒](evil-of-kurogames/Docs/论黑白颠倒.md)
-  - [鸣潮安可酱｜关于知名鸣潮某 up 主的一些历史记录](evil-of-kurogames/Docs/鸣潮安可酱｜关于知名鸣潮某%20up%20主的一些历史记录.md)
+ 
   - [猴吧是想吃红豆了？](evil-of-kurogames/Docs/猴吧是想吃红豆了？.md)
   - [Kurean 又来前瞻下撒野了](evil-of-kurogames/Docs/Kurean%20又来前瞻下撒野了.md)
   - [库叠皮肤越来越贵了](evil-of-kurogames/Docs/库叠皮肤越来越贵了.md)
