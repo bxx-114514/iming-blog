@@ -4,7 +4,7 @@
 最近藤壶又推出了一个新 KOL，是外网的一个叫做 [Nicholas Light](https://x.com/NicholasLightTV) 的 X (Twitter) 博主。
 ![](https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250612/1.jpg)
 
-其在主页分享游戏，体育等多方面的内容，可以看到之前也是原神、星铁的玩家，但是一直在游戏区没有很高的知名度。\
+其在主页分享游戏、体育等多方面的内容，可以看到之前也是原神、星铁的玩家，但是一直在游戏区没有很高的知名度。\
 在 5~6 月左右开始大量发表 wuwa 的帖子，此前他没有任何原神的帖子，并且还计划对比星铁。
 ![](https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250612/3.png)
 
@@ -19,12 +19,12 @@
 随着事件的发展，有一些心细的玩家去看了其以往的帖子；不看不知道，一看吓一跳。其在 25 年 4 月 21 日发了一个帖子：
 ![](https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250612/5.png)
 
-图片是将约翰塞纳的五官嫁接给了伟人，并且配文是向冠军致敬。
+图片是将约翰 · 塞纳的五官嫁接给了伟人，并且配文是向冠军致敬。
 
-那么，有人会问，约翰塞纳是谁呢？
+那么，有人会问，约翰 · 塞纳是谁呢？
 ![](https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250612/6.png)
 
-这个约翰塞纳是国外的一个知名摔跤运动员。其在 21 年公开表示自己是「胎毒」，并且即使被指责，面临封杀，也一直不收回自己的发言。其便是如此之人，而这个红温哥发了这样一个图片，是什么目的？如果还是正常藤壶都能看出，并且此前其也与 T 佬有高强度的互动。
+这个约翰 · 塞纳是国外的一个知名摔跤运动员。其在 21 年公开表示自己是「胎毒」，并且即使被指责，面临封杀，也一直不收回自己的发言。其便是如此之人，而这个红温哥发了这样一个图片，是什么目的？如果还是正常藤壶都能看出，并且此前其也与 T 佬有高强度的互动。
 ![](https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250612/7.png)
 
 此前，藤壶推出的 KOL，从王老吉，到T佬，再到红温哥，都给自己带来了极大的流量。但是每一个都经不起细看，每一个都是真正的神，藤壶至少吧，还要良心吧？
