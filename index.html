@@ -10,6 +10,19 @@
 <body>
   <div id="app"></div>
   <script>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+    <script>
+      const gitalk = new Gitalk({
+        clientID: 'Ov23liIxbypYAiSgfCmc',
+        clientSecret: 'd796a9641c97af341f2c32504f2884e8731f84d3',
+        repo: 'bxx-114514.github.io',
+        owner: 'bxx-114514',
+        admin: ['bxx-114514'],
+        // facebook-like distraction free mode
+        distractionFreeMode: false
+      })
     window.$docsify = {
       name: 'iming-blog',
       repo: 'https://github.com/bxx-114514/iming-blog',
