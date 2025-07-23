@@ -2,6 +2,7 @@
 - [送给我最爱的鸣潮](evil-of-kurogames/Docs/送给我最爱的鸣潮.md)
 - [鸣式的 IP 价值比小明本身还高](鸣式的%20IP%20价值比小明本身还高.md)
 - [关于排版规范](关于排版规范.md)
+- [Markdown 规范](Markdown.md)
 - **[荣誉勋章](evil-of-kurogames/Docs/荣誉勋章.md)**
 - **【重量级】**
   - [鸣潮安可酱｜关于知名鸣潮某 up 主的一些历史记录](evil-of-kurogames/Docs/鸣潮安可酱｜关于知名鸣潮某%20up%20主的一些历史记录.md)
