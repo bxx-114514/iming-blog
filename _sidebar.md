@@ -13,13 +13,9 @@
   - [猴吧核武器演都不演了](evil-of-kurogames/Docs/猴吧核武器演都不演了.md)
 - **【偷窃、盗用、倒打一耙】**
   - [尘白深陷偷皮肤风波？自导自演还是确有其事？](evil-of-kurogames/Docs/尘白深陷偷皮肤风波？自导自演还是确有其事？.md)
-- **【i 鸣金曲】**
-  - [来吧，占领我的信息](evil-of-kurogames/Docs/【i%20鸣金曲】来吧，占领我的信息.md)
-  - [足够](evil-of-kurogames/Docs/【i%20鸣金曲】足够.md)
-  - [米哈朴博通告](evil-of-kurogames/Docs/【i%20鸣金曲】米哈朴博通告.md)
 - **【瓜】**
   - [挖出来了一个大瓜](evil-of-kurogames/Docs/挖出来了一个大瓜.md)
-  - [库洛员工对蓝原哈气并拐米[(evil-of-kurogames/Docs/库洛员工对蓝原哈气并拐米.md)
+  - [库洛员工对蓝原哈气并拐米](evil-of-kurogames/Docs/库洛员工对蓝原哈气并拐米.md)
 - **【流光忆庭 - 未分类】**
   - [20250513——串子又开始了](evil-of-kurogames/Docs/20250513%20串子又开始了.md)
   - [YugoFukt雨果 的动态 2](evil-of-kurogames/Docs/YugoFukt雨果%20的动态%202.md)
