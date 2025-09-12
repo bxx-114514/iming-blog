@@ -1,3 +1,5 @@
+# 本仓库已停更并公开存档，请移步[新仓库](https://github.com/bxx-114514/new-iming-blog)和[新网站](https://bxx-114514.github.io/new-iming-blog)
+
 ![](https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/We%20ask%20for%20your%20understanding.png)
 ![](https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250601/2.jpg)
 ![](https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250601/1.jpg)
